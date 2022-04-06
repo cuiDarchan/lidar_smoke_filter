@@ -1,0 +1,7 @@
+is_needed_trained: false
+is_needed_prediction: true
+training_lidar_path: ../data/training/lidar/
+training_label_path: ../data/training/label/
+testing_lidar_path: ../data/testing/lidar/
+testing_label_path: ../data/testing/label/
+model_path: ../model/new_model.xml
